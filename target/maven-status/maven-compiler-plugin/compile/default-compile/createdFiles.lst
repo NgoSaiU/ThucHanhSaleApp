@@ -1,0 +1,3 @@
+com\nsu\controllers\IndexController.class
+com\nsu\configs\WebAppContextConfig.class
+com\nsu\configs\DispatcherServletInit.class
